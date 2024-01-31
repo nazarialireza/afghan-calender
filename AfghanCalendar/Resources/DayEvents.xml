@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<calendars>
+  <calendar name="Dari">
+    <day month="1" day="1" isHoliday="0" event="روز اول عید نوروز" />
+    <day month="1" day="2" isHoliday="0" event="روز دوم عید نوروز" />
+    <day month="1" day="3" isHoliday="0" event="روز سوم عید نوروز" />
+    <day month="1" day="13" isHoliday="0" event="روز سیزدهم حمل، روز طبیعت" />
+    <day month="1" day="20" isHoliday="0" event="شهادت حضرت علی (رض)، بزرگداشت" />
+    <day month="1" day="29" isHoliday="0" event="نزول قرآن عظیم الشان، بزرگداشت" />
+    <day month="2" day="1" isHoliday="1" event="عید سعید فطر، رخصتی" />
+    <day month="2" day="2" isHoliday="1" event="عید سعید فطر، رخصتی" />
+    <day month="2" day="3" isHoliday="1" event="عید سعید فطر، رخصتی" />
+    <day month="3" day="24" isHoliday="0" event="روز جهانی مادر، بزرگداشت" />
+    <day month="4" day="6" isHoliday="1" event="عرفه، رخصتی" />
+    <day month="4" day="7" isHoliday="1" event="عید سعید قربان، رخصتی" />
+    <day month="4" day="8" isHoliday="1" event="عید سعید قربان، رخصتی" />
+    <day month="4" day="9" isHoliday="1" event="عید سعید قربان، رخصتی" />
+    <day month="4" day="28" isHoliday="0" event="شهادت حضرت عمر فاروق (رض)، بزرگداشت" />
+    <day month="5" day="6" isHoliday="0" event="قیام عاشورا و شهادت امام حسین (رض)، بزرگداشت" />
+    <day month="5" day="14" isHoliday="1" event="سالروز خروج امریکا از افغانستان، رخصتی" />
+    <day month="5" day="28" isHoliday="1" event="قیام عاشورا و شهادت امام حسین (رض)، رخصتی" />
+    <day month="7" day="6" isHoliday="1" event="میلاد نبی (ص)، رخصتی" />
+    <day month="10" day="6" isHoliday="0" event="تجاوز شوروی به افغانستان، سالروز" />
+    <day month="11" day="26" isHoliday="1" event="خروج شوروی از افغانستان، رخصتی" />
+    <day month="12" day="24" isHoliday="0" event="قیام مردم هرات علیه کمونست، بزرگداشت" />
+	  
+  </calendar>
+  <calendar name="Hijri">
+    <day month="1" day="1" isHoliday="0" event="آغاز سال جدید هجری قمری" />
+    <day month="1" day="9" isHoliday="1" event="تاسوعای حسینی" />
+    <day month="1" day="10" isHoliday="1" event="عاشورای حسینی" />
+    <day month="1" day="12" isHoliday="0" event="شهادت حضرت امام زین العابدین علیه السلام" />
+    <day month="1" day="25" isHoliday="0" event="شهادت حضرت امام زین العابدین علیه السلام به روایتی" />
+    <day month="2" day="7" isHoliday="0" event="ولادت حضرت امام موسی کاظم علیه السلام" />    
+    <day month="2" day="20" isHoliday="1" event="اربعین حسینی" />
+    <day month="2" day="28" isHoliday="1" event="رحلت حضرت رسول اکرم صلی الله علیه وآله" />
+    <day month="2" day="28" isHoliday="1" event="شهادت حضرت امام حسن مجتبی علیه السلام" />
+    <day month="2" day="30" isHoliday="1" event="شهادت حضرت امام رضا علیه السلام" />
+    <day month="3" day="1" isHoliday="0" event="هجرت حضرت رسول اکرم صلی الله و اله از مکه به مدینه" />
+    <day month="3" day="8" isHoliday="1" event="شهادت حضرت امام حسن عسکری علیه السلام" />
+    <day month="3" day="12" isHoliday="0" event="ولادت حضرت رسول اکرم به روایت اهل سنت" />
+    <day month="3" day="17" isHoliday="1" event="ولادت حضرت رسول اکرم و روز اخلاق و مهرورزی" />
+    <day month="3" day="17" isHoliday="1" event="ولادت حضرت امام جعفر صادق علیه السلام" />
+    <day month="4" day="8" isHoliday="0" event="ولادت حضرت امام حسن عسکری علیه السلام" />
+    <day month="4" day="10" isHoliday="0" event="ولادت حضرت معصومه سلام الله علیها" />
+    <day month="5" day="5" isHoliday="0" event="ولادت حضرت زینب سلام الله علیها" />    
+    <day month="5" day="13" isHoliday="0" event="شهادت حضرت فاطمه زهرا سلام الله علیها به روایتی" />
+    <day month="6" day="3" isHoliday="1" event="شهادت حضرت فاطمه زهرا سلام الله علیها" />
+    <day month="6" day="20" isHoliday="0" event="ولادت حضرت فاطمه زهرا سلام الله علیها و روز زن" />
+    <day month="7" day="1" isHoliday="0" event="ولادت حضرت امام محمد باقر علیه السلام" />
+    <day month="7" day="3" isHoliday="0" event="شهادت حضرت امام علی النقی علیه السلام" />
+    <day month="7" day="10" isHoliday="0" event="ولادت حضرت امام محمد تقی علیه السلام" />
+    <day month="7" day="13" isHoliday="1" event="ولادت حضرت امام علی علیه السلام" />
+    <day month="7" day="15" isHoliday="0" event="وفات حضرت زینب سلام الله علیها" />    
+    <day month="7" day="25" isHoliday="0" event="شهادت حضرت امام موسی کاظم علیه السلام" />
+    <day month="7" day="27" isHoliday="1" event="مبعث حضرت رسول اکرم صلی الله علیه وآله" />
+    <day month="8" day="3" isHoliday="0" event="ولادت حضرت امام حسین علیه السلام و روز پاسدار" />
+    <day month="8" day="4" isHoliday="0" event="ولادت حضرت ابوالفضل علیه السلام و روز جانباز" />
+    <day month="8" day="5" isHoliday="0" event="ولادت حضرت امام زین العابدین علیه السلام" />
+    <day month="8" day="11" isHoliday="0" event="ولادت حضرت علی اکبر علیه السلام و روز جوان" />    
+    <day month="8" day="15" isHoliday="1" event="ولادت حضرت قائم عجل الله تعالی فرجه و روز جهانی مستضعفان" />
+    <day month="9" day="10" isHoliday="0" event="وفات حضرت خدیجه سلام الله علیها" />
+    <day month="9" day="15" isHoliday="0" event="ولادت حضرت امام حسن مجتبی علیه السلام و روز اکرام" />
+    <day month="9" day="18" isHoliday="0" event="شب قدر" />
+    <day month="9" day="19" isHoliday="0" event="ضربت خوردن حضرت علی علیه السلام" />
+    <day month="9" day="20" isHoliday="0" event="شب قدر" />
+    <day month="9" day="21" isHoliday="1" event="شهادت حضرت علی علیه السلام" />
+    <day month="9" day="22" isHoliday="0" event="شب قدر" />
+    <day month="10" day="1" isHoliday="1" event="عید سعید فطر" />
+    <day month="10" day="2" isHoliday="1" event="به مناسبت عید سعید فطر" />
+    <day month="10" day="25" isHoliday="1" event="شهادت حضرت امام جعفر صادق علیه السلام" />
+    <day month="11" day="1" isHoliday="0" event="ولادت حضرت معصومه سلام الله علیها و روز دختران" />
+    <day month="11" day="11" isHoliday="0" event="ولادت حضرت امام رضا علیه السلام" />
+    <day month="11" day="30" isHoliday="0" event="شهادت حضرت امام محمد تقی علیه السلام" />
+    <day month="12" day="1" isHoliday="0" event="سالروز ازدواج حضرت علی علیه السلام و حضرت فاطمه سلام الله علیها" />
+    <day month="12" day="7" isHoliday="0" event="شهادت حضرت امام محمد باقر علیه السلام" />
+    <day month="12" day="10" isHoliday="1" event="عید سعید قربان" />
+    <day month="12" day="15" isHoliday="0" event="ولادت حضرت امام علی النقی علیه السلام" />
+    <day month="12" day="18" isHoliday="1" event="عید سعید غدیر خم" />
+  </calendar>
+</calendars>

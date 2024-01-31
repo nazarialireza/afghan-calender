@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControl", "TestControl\TestControl.csproj", "{D805036C-4B27-4AD0-A471-42678E2B93D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfghanCalendar", "AfghanCalendar\AfghanCalendar.csproj", "{08DF8478-B6B3-4CD3-A795-D5BF9A655934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D805036C-4B27-4AD0-A471-42678E2B93D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D805036C-4B27-4AD0-A471-42678E2B93D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D805036C-4B27-4AD0-A471-42678E2B93D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D805036C-4B27-4AD0-A471-42678E2B93D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DF8478-B6B3-4CD3-A795-D5BF9A655934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DF8478-B6B3-4CD3-A795-D5BF9A655934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DF8478-B6B3-4CD3-A795-D5BF9A655934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DF8478-B6B3-4CD3-A795-D5BF9A655934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4304E435-5D3F-429D-8B65-83C74155D7C0}
+	EndGlobalSection
+EndGlobal
